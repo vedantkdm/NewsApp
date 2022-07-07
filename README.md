@@ -1,1 +1,1 @@
-# NewsApp
+# NewsAppDjango
